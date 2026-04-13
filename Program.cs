@@ -34,7 +34,7 @@ namespace POEPart1
 
             BotResponses.GreetUser(name);
             Console.ForegroundColor = ConsoleColor.Magenta;
-            UIHelper.TypeText("\nYou can ask me questions like:");
+            UIHelper.TypeText("\nYou can ask me questions relating to cybersecurity for example:");
             UIHelper.TypeText("• 'What is phishing?'");
             UIHelper.TypeText("• 'How are you?'");
             UIHelper.TypeText("• 'What is your purpose?'");
