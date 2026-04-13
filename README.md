@@ -9,7 +9,7 @@ The chatbot provides an interactive experience by responding to user questions, 
 
 ---
 
-## 🎯Objectives
+## Objectives
 
 * Create an interactive chatbot using C#
 * Provide cybersecurity awareness to users
