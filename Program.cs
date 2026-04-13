@@ -52,8 +52,8 @@ namespace POEPart1
 
                 if (input.ToLower() == "exit")
                 {
-                    SoundPlayer outro = new SoundPlayer("C:\\Users\\shlaps\\source\\repos\\POEPart1\\POEPart1\\voice outro.wav");
-                    outro.PlaySync();
+                    SoundPlayer voiceOutro = new SoundPlayer("C:\\Users\\shlaps\\source\\repos\\POEPart1\\POEPart1\\voice outro.wav");
+                    voiceOutro.PlaySync();
                     
 
 
